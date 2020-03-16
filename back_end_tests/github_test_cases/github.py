@@ -25,7 +25,7 @@ class GithubTest(ParametrizedTestCase):
 
 		cls.clean_db()
 
-	def test_github(self):
+	def test_github_001(self):
 		pass
 
 	@classmethod
