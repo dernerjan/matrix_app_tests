@@ -25,7 +25,7 @@ class JiraTest(ParametrizedTestCase):
 
 		cls.clean_db()
 
-	def test_github(self):
+	def test_jira_001(self):
 		pass
 
 	@classmethod

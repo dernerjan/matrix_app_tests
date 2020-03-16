@@ -25,7 +25,7 @@ class FrontEndTest(ParametrizedTestCase):
 
 		cls.clean_db()
 
-	def test_github(self):
+	def test_frontend_001(self):
 		pass
 
 	@classmethod
